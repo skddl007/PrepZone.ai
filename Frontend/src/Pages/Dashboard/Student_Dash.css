@@ -1,0 +1,34 @@
+.student-dash-container {
+    background-color: #f8f9fa;
+  }
+  
+  h1 {
+    color: #343a40;
+    font-weight: 700;
+  }
+  
+  .custom-card {
+    border: 1px solid #ced4da;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .custom-card-header {
+    background-color: #343a40;
+    color: white;
+    font-weight: bold;
+    border-bottom: 1px solid #ced4da;
+  }
+  
+  .custom-table {
+    margin-top: 1rem;
+  }
+  
+  .custom-table th, .custom-table td {
+    vertical-align: middle;
+  }
+  
+  button {
+    font-weight: bold;
+  }
+  

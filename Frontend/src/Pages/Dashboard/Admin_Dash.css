@@ -1,0 +1,27 @@
+.dashboard {
+    background-color: #f8f9fa; /* Light background color */
+    padding: 20px;
+  }
+  
+  .card {
+    border-radius: 10px;
+    transition: transform 0.2s;
+  }
+  
+  .card:hover {
+    transform: scale(1.02); /* Slightly scale up on hover */
+  }
+  
+  h1 {
+    color: #343a40; /* Darker heading color */
+  }
+  
+  .card-title {
+    display: flex;
+    align-items: center;
+  }
+  
+  .card-title svg {
+    margin-right: 10px; /* Spacing between icon and title */
+  }
+  
